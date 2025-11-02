@@ -51,7 +51,7 @@ The detail of the strat we're going to use is also written [here](https://pokemo
 
 - Head to Viridian Mart : buy
   - 2 Pokeballs
- > Note : You can buy extras balls if you are afraid to fail the **yoloball*, but later in the run you will **NEED** to know how to do a yoloball, so it's up to you.
+ > Note : You can buy extras balls if you are afraid to fail the **yoloball**, but later in the run you will **NEED** to know how to do a yoloball, so it's up to you.
 - Take the [**Tree potion**](https://gunnermaniac.com/pokeworld?map=1#54/166)
   > Or don't take it and take the grass potion before Weedle Guy.
 
@@ -92,12 +92,12 @@ The detail of the strat we're going to use is also written [here](https://pokemo
 **FROM NOW YOU MUST NEVER RELEASE B UNTIL WE ENTER CERULEAN CAVE**
 
  ### Path to Cerulean Cave
-  - So the Goal is to reach Cerulean Cave, and here is the [fastest path](https://www.youtube.com/watch?v=7jT0nZStQNU)
+- The goal here is to reach Cerulean Cave, and here is the [fastest path](https://www.youtube.com/watch?v=7jT0nZStQNU)
   - Take this path carefully: you are walking out of bounds, one false step can crash the game
  
 ## Cerulan cave and Cooltrainer glitch
 
-- Now, we will manip a Lvl 55 Ditto : this is why you need to get consistent at yoloballs ; you can't catch a Lvl 55 Ditto in one ball like that normally.
+- Now, we will manip a Lvl 55 Ditto : this is why you need to get consistent at yoloballs ; you can't catch a Lvl 55 Ditto in one ball like that normally.(Actually you can, but chances are astronomiclly low)
 - Once you entered the cave, do the **[Ditto Manip](https://www.youtube.com/watch?v=aIE01IgqhFw)**
   - Nickname Ditto **"A"**
 - After nicknaming it, menu and go into the Pokémon Menu :
@@ -139,6 +139,7 @@ The detail of the strat we're going to use is also written [here](https://pokemo
 - You can use the runs on the leaderboard for reference [here](https://www.speedrun.com/fr-FR/pkmnrbext?h=Any_No_Item_Underflow&x=mkew5jnk).
 - Watching runs help improve a lot, and can help you understand something you didn't with the guide.
 - Again, this guide is based off runs and [Rosstafari's tutorial](https://www.youtube.com/watch?v=dmIru_VnLgI&t=2s), who was i believe the first to document the entire route, so if you see this, shoutout to you !
+- If you need any help for the run, or don't succeed at a manip without knowing why, the best thing to do is to join the Gen 1-3 PSR discord, post a video of your game with and input display in the channel [rb-category-extensions](https://discord.gg/aqmtaCzFW)and your problem will quickly be solved
 - For now, i wrote everything down, but maybe people will improve this guide.
 
 ## **HAVE FUN !**  
